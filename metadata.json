@@ -1,0 +1,6 @@
+{
+  "name": "আমার দোকান",
+  "description": "Complete offline-first Business Management & Accounting Android App with sales, purchases, inventory, due ledger, cashbook, expenses, profit & loss, PDF/Excel reports, and Firebase Cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
